@@ -1,2 +1,3 @@
 # wOrk
- My own framework
+
+It is my own framework for JS projects.

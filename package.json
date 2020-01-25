@@ -1,0 +1,17 @@
+{
+  "name": "w-ork",
+  "version": "0.0.1",
+  "description": "Framework.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiteGloom/wOrk.git"
+  },
+  "author": "whiteGloom <karabin.m@yandex.ru> (https://github.com/whiteGloom)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whiteGloom/wOrk/issues"
+  },
+  "homepage": "https://github.com/whiteGloom/wOrk#readme"
+}
